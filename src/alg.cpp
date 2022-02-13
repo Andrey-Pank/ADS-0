@@ -34,4 +34,5 @@ int gcd(int a, int b){
 	if(0 == del){
 		return 1;
 	}
+	return 0;
 }
