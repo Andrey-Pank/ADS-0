@@ -1,7 +1,5 @@
-// Copyright 2021 NNTU-CS
-
-int gcd(int a, int b) {
-    int del = 0;
+int gcd(int a, int b){
+	int del = 0;
 	if(a == b){
 		return a;
 	}
